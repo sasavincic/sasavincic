@@ -3,6 +3,7 @@
 My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slovenia.
 
 ### Technologies
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw2XdUzr2WvqnH-RlVmlOZSA&ust=1666781609012000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCyvL-b-_oCFQAAAAAdAAAAABAE))
 
 ### Experience
 1. Backend Development in JakartaEE (Quarkus) for MSG Life
