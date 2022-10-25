@@ -4,6 +4,7 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
 
 ### Technologies
 <table>
+<tr>
   <td>
     <img src="https://user-images.githubusercontent.com/77722684/197755491-7ad27ede-2643-40aa-9b50-eade3c7e8a5c.png" alt="typescript" width="30" height="30" />
   </td>
@@ -31,8 +32,8 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
   <td>
     <img src="https://user-images.githubusercontent.com/77722684/197756012-04c58f4f-27f3-429c-976e-ca713f6c8c66.png" alt="swift" width="100" height="30" />
   </td>
-</table>
-<table>
+</tr>
+<tr>
   <td>
     <img src="https://user-images.githubusercontent.com/77722684/197755841-2afb157e-6291-46a6-89e9-ba97ac05e299.png" alt="python" width="30" height="30" />
   </td>
@@ -57,6 +58,7 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
   <td>
     <img src="https://user-images.githubusercontent.com/77722684/197756364-3d14f608-d126-4169-8e86-15c5530f950d.png" alt="docker" width="35" height="30" />
   </td>
+  </tr>
 </table>
 
 
