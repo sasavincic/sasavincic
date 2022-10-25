@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there
+
+My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slovenia.
+
+### Technologies I know and use
+- NodeJS
+  - Nuxt3 (VueJS)
+  - ReactJS
+  - Express
+- JavaEE/JakartaEE 
+  - Quarkus
+  - Springboot
+- Flutter
+- Swift
+- Docker
+- Postgres
+- Mysql 
+
+### My Experience
+- Backend Development in JakartaEE (Quarkus) for MSG Life
+- Flutter App Development for MSG Life
+- ReactJS website development as a freelancer
 
 <!--
 **sasavincic/sasavincic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
