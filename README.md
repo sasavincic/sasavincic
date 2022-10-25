@@ -37,7 +37,7 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
     <img src="https://user-images.githubusercontent.com/77722684/197755841-2afb157e-6291-46a6-89e9-ba97ac05e299.png" alt="python" width="30" height="30" />
   </td>
   <td>
-    <img src="https://user-images.githubusercontent.com/77722684/197755867-d9758b0e-07ed-4a25-9a1d-f134295d91da.png" alt="java" width="60" height="30" />
+    <img src="https://user-images.githubusercontent.com/77722684/197755867-d9758b0e-07ed-4a25-9a1d-f134295d91da.png" alt="java" width="55" height="30" />
   </td>
   <td>
     <img src="https://user-images.githubusercontent.com/77722684/197755894-3c2ad302-7a94-46b3-a58b-8b247a25cbf7.png" alt="quarkus" width="30" height="30" />
