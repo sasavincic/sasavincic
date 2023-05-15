@@ -6,7 +6,7 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
 <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="32px" height="32px"/>
    &nbsp&nbsp&nbsp
-  <img src="[https://cdn.worldvectorlogo.com/logos/golang-1.svg](https://user-images.githubusercontent.com/77722684/197755894-3c2ad302-7a94-46b3-a58b-8b247a25cbf7.png)" width="32px" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/77722684/197755894-3c2ad302-7a94-46b3-a58b-8b247a25cbf7.png" width="32px" height="32px"/>
     &nbsp&nbsp&nbsp
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="32px" height="32px"/>
     &nbsp&nbsp&nbsp
