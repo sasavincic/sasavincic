@@ -4,15 +4,15 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
 
 #### Technoglogies
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="32px" height="32px"/>
-   &nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/77722684/197755894-3c2ad302-7a94-46b3-a58b-8b247a25cbf7.png" width="32px" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/77722684/197755894-3c2ad302-7a94-46b3-a58b-8b247a25cbf7.png" height="32px"/>
     &nbsp&nbsp&nbsp
-  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="32px" height="32px"/>
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32px"/>
     &nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/77722684/197755627-22b73581-49db-4681-8d8e-ccb632f6a280.png" width="32px" height="32px"/>
+  <img src="https://user-images.githubusercontent.com/77722684/197755627-22b73581-49db-4681-8d8e-ccb632f6a280.png" height="32px"/>
     &nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/77722684/197761010-267a2e38-524e-46d2-b554-e30637cc2774.png" width="32px" height="32px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="32px"/>
+    &nbsp&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/77722684/197761010-267a2e38-524e-46d2-b554-e30637cc2774.png" height="32px"/>
 </div>
 
 
