@@ -75,9 +75,9 @@ My name is Saša Vinčić and I am a Fullstack Developer based in Maribor, Slove
 
 
 ### Experience
-▫️ Backend Development in JakartaEE (Quarkus) for MSG Life\
+▫️ Backend Development in Quarkus for MSG Life\
 ▫️ Flutter App Development for MSG Life\
-▫️ ReactJS / VueJS website development as a freelancer
+▫️ NextJS / NuxtJS website development as a freelancer
 
 <!--
 **sasavincic/sasavincic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
